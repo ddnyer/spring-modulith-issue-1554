@@ -1,0 +1,5 @@
+rootProject.name = 'spring-modulith-issue-1554'
+
+
+include ':application'
+include ':generic'
